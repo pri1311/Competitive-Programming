@@ -15,3 +15,6 @@
 
 - [Day 2: 02-03-2021](https://github.com/pri1311/100DaysOfAlgorithms/tree/master/Day2) - `MergeSort` `QuickSort`
 	- Implemented MergeSort and QuickSort Algorithms (Divide and Conquer).
+
+- [Day 3: 03-03-2021](https://github.com/pri1311/100DaysOfAlgorithms/tree/master/Day3) - `BinarySearch` `Graphs`
+	- Solved 3 leetcode Questions.
