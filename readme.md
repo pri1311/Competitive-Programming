@@ -19,5 +19,8 @@
 - [Day 3: 03-03-2021](https://github.com/pri1311/100DaysOfAlgorithms/tree/master/Day3) - `BinarySearch` `Graphs`
 	- Solved 3 leetcode Questions.
 
-- [Day 3: 03-03-2021](https://github.com/pri1311/100DaysOfAlgorithms/tree/master/Day4) - `Linked list` 
+- [Day 4: 04-03-2021](https://github.com/pri1311/100DaysOfAlgorithms/tree/master/Day4) - `Linked list` 
 	- Solved leetcode Questions.
+
+- [Day 5: 05-03-2021](https://github.com/pri1311/100DaysOfAlgorithms/tree/master/Day5) - `Linked list` 
+	- Solved leetcode and Codechef Questions.
