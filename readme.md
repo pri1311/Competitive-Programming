@@ -4,7 +4,7 @@
 
 # Daily Log
 
-## All the algorithms that I learned (or tried to), hearded, watched and some other stuff that consider relevant. 
+## All the algorithms that I learned (or tried to) and some other stuff that consider relevant. 
 
 ### 2021
 
