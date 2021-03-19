@@ -24,3 +24,7 @@
 
 - [Day 5: 05-03-2021](https://github.com/pri1311/100DaysOfAlgorithms/tree/master/Day5) - `Linked list` 
 	- Solved leetcode and Codechef Questions.
+
+- [Divide and Conquer](https://github.com/pri1311/100DaysOfAlgorithms/tree/master/DivideAndConquer) - 
+	- Median of Two sorted arrays.
+	- Counting Inversions.
