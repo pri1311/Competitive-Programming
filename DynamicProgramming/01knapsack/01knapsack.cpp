@@ -24,16 +24,19 @@ int main() {
     cin.tie(0), cout.tie(0);
     int n = 0;
     cin>> n;
-    int w[n], p[n];
-    for (int i = 0; i < n; i++){
+    int w[n+1], p[n+1];
+    w[0] = 0;
+    p[0] = 0;
+    for (int i = 1; i < n+1; i++){
         cin>>w[i];
     }
-    for (int i = 0; i < n; i++){
+    for (int i = 1; i < n+1; i++){
         cin>>p[i];
     }
     int c = 0;
     cin>>c;
     dp.assign(n+1, vector<int>(c+1, -1));
-    cout <<knapsack(w,p,c,n);
+    knapsack(w,p,c,n);
+    cout<<dp[n][c];
     return 0;
 }
